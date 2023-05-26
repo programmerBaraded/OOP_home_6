@@ -16,3 +16,8 @@
 2023-05-26 13:57:07 error: SQLITE_ERROR: no such table: issues
 2023-05-26 13:58:22 info: file:///g%3A/%21%21%21%21%21%D0%9E%D0%91%D0%A3%D0%A7%D0%95%D0%9D%D0%98%D0%95/O_O_P/Home/HomeWork_6/.git/index.lock
 2023-05-26 13:58:22 error: SQLITE_ERROR: no such table: issues
+2023-05-26 14:09:00 info: tempDirectory:c:\Users\BARADED\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-05-26 14:09:00 info: Extraction complete for source: c:\Users\BARADED\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\BARADED\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-05-26 14:09:00 info: Congratulations, your extension "Embold" is now active!
+2023-05-26 14:17:34 info: file:///g%3A/%21%21%21%21%21%D0%9E%D0%91%D0%A3%D0%A7%D0%95%D0%9D%D0%98%D0%95/O_O_P/Home/HomeWork_6/.git/index.lock
+2023-05-26 14:17:34 error: SQLITE_ERROR: no such table: issues
