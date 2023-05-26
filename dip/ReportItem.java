@@ -1,4 +1,3 @@
-package ru.geekbrains.lesson6.dip;
 
 public class ReportItem {
 

@@ -1,4 +1,3 @@
-package ru.geekbrains.lesson6.dip;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,6 +5,11 @@ import java.util.List;
 public class Report {
 
     private List<ReportItem> items;	// Отчетные данные
+    private ReportOutput reportOutput;
+
+    public Report(ReportOutput reportOutput) {
+        this.reportOutput = reportOutput;
+    }
 
     // расчет отчетных данных
     public void calculate(){
@@ -14,9 +18,8 @@ public class Report {
         items.add(new ReportItem("Second", (float)6));
     }
 
-    public void output(){
-        PrintReport printReport = new PrintReport();
-        printReport.output(items);
+    public void output() {
+        reportOutput.output(items);
     }
 
 }
